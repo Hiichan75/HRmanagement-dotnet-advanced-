@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRmanagement (dotnet advanced)", "HRmanagement (dotnet advanced).csproj", "{DFB7F6BF-C54D-4159-8C56-AADCCDF261F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB7F6BF-C54D-4159-8C56-AADCCDF261F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFB7F6BF-C54D-4159-8C56-AADCCDF261F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFB7F6BF-C54D-4159-8C56-AADCCDF261F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFB7F6BF-C54D-4159-8C56-AADCCDF261F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54CDD02D-66A9-4E6F-A0F5-3FC5E64F2FCB}
+	EndGlobalSection
+EndGlobal
